@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderAquaCore", "UnderAquaCore\UnderAquaCore.csproj", "{C23347B0-C87C-4506-AB8B-4F463519C79F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderAquaEditor", "UnderAquaEditor\UnderAquaEditor.csproj", "{927276EF-5651-46D6-B16E-EB476C13B94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderAquaServer", "UnderAquaServer\UnderAquaServer.csproj", "{60213CB0-E58D-4304-A57C-D9D6E8C0508B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C23347B0-C87C-4506-AB8B-4F463519C79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23347B0-C87C-4506-AB8B-4F463519C79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23347B0-C87C-4506-AB8B-4F463519C79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23347B0-C87C-4506-AB8B-4F463519C79F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927276EF-5651-46D6-B16E-EB476C13B94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927276EF-5651-46D6-B16E-EB476C13B94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927276EF-5651-46D6-B16E-EB476C13B94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927276EF-5651-46D6-B16E-EB476C13B94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60213CB0-E58D-4304-A57C-D9D6E8C0508B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60213CB0-E58D-4304-A57C-D9D6E8C0508B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60213CB0-E58D-4304-A57C-D9D6E8C0508B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60213CB0-E58D-4304-A57C-D9D6E8C0508B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
